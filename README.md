@@ -46,11 +46,10 @@ cd agroschool
 
 2. Crie e ative um ambiente virtual
 
-bash
-
+```bash
 python3 -m venv venv
 source venv/bin/activate  # Linux/MacOS
-
+```
 ## ou
 venv\Scripts\activate  # Windows
 Instale as dependências
