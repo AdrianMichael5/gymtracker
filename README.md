@@ -113,19 +113,19 @@ python manage.py runserver
 
 
 ## 📞 Contato
-### Adrian Michael
+### 👨‍💻Adrian Michael
 [![Adrian Michael](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-michael-77b236282/)
 
-📧 Email: adrian_michael_araujo@hotmail.com
+### 📧 Email: adrian_michael_araujo@hotmail.com
 ___
-### Marcelo Henrique
+### 👨‍💻Marcelo Henrique
 [![Marcelo Henrique](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-michael-77b236282/)
 
-📧 Email: mhpb@cesar.school
+### 📧 Email: mhpb@cesar.school
 ___
-### Raul Vila Nova
+### 👨‍💻Raul Vila Nova
 [![Raul Vila Nova](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-michael-77b236282/)
 
-📧 Email: rvnc@cesar.school
+### 📧 Email: rvnc@cesar.school
 
 
