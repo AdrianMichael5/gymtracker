@@ -27,11 +27,11 @@ Fórum de Discussão: Espaço para interação entre os usuários e instrutores.
 Painel do Usuário: Gerenciamento de cursos, progresso e certificados.
 
 ## 💻 Tecnologias Utilizadas
-Backend: Django (Python)
-Banco de Dados: PostgreSQL
-Frontend: HTML, CSS, JavaScript
-Autenticação: Django Allauth
-Deploy: Docker, Heroku
+- Backend: Django (Python)
+- Banco de Dados: PostgreSQL
+- Frontend: HTML, CSS, JavaScript
+- Autenticação: Django Allauth
+- Deploy: Docker, Heroku
 
 ## ⚙️ Pré-requisitos
 Python 3.8+
