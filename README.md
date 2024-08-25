@@ -10,7 +10,7 @@ AgroSchool é uma plataforma de cursos online focada em agricultura, desenvolvid
 - Como Usar
 - Licença
 - Contato
-- 
+
 ## Visão Geral
 O AgroSchool oferece cursos online que abrangem diversos temas relacionados à agricultura, incluindo técnicas de plantio, manejo de pragas, uso eficiente da água, e práticas sustentáveis. A plataforma permite que os usuários acessem materiais de aprendizado em vídeo, texto, e participem de fóruns de discussão.
 
