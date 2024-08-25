@@ -49,29 +49,29 @@ cd agroschool
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # Linux/MacOS
-```
-## ou
+ou
 venv\Scripts\activate  # Windows
-Instale as dependências
+```
+3. Instale as dependências
 
-bash
-Copiar código
+``` bash
 pip install -r requirements.txt
-Configurar o Banco de Dados
+```
+4. Configurar o Banco de Dados
 
 Crie um banco de dados PostgreSQL e configure as credenciais no arquivo settings.py.
 
-Execute as migrações
+5. Execute as migrações
 
-bash
-Copiar código
+```bash
+
 python manage.py migrate
-Inicie o servidor de desenvolvimento
-
-bash
-Copiar código
+```
+6. Inicie o servidor de desenvolvimento
+``` `bash`
 python manage.py runserver
-Como Usar
+
+## Como Usar
 Acesso ao Painel: Navegue até http://localhost:8000 para acessar a plataforma.
 Administração: Acesse http://localhost:8000/admin para gerenciar cursos e usuários.
 Contribuindo
