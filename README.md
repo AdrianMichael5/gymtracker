@@ -86,16 +86,45 @@ python manage.py runserver
   <tr>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto Adrian Contribuidor"/><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65dbMui6whWaxsVpnyP_A1zY2IXODEzLVoA&s" width="100px;" alt="Foto do Adrian Michael no GitHub"/><br>
         <sub>
           <b>Adrian Michael</b>
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65dbMui6whWaxsVpnyP_A1zY2IXODEzLVoA&s" width="100px;" alt="Foto do Marcelo Henrique"/><br>
+        <sub>
+          <b>Marcelo Henrique</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65dbMui6whWaxsVpnyP_A1zY2IXODEzLVoA&s" width="100px;" alt="Foto do Raul vila nova"/><br>
+        <sub>
+          <b>Raul Vila Nova</b>
+        </sub>
+      </a>
+    </td>
   </tr>
-    </table>
-    
+</table>
+
+
 ## 📞 Contato
-### Seu Nome - seu-email@exemplo.com
-### LinkedIn: SeuPerfil
-### GitHub: seu-usuario
+### Adrian Michael
+[![Adrian Michael](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-michael-77b236282/)
+
+📧 Email: adrian_michael_araujo@hotmail.com
+___
+### Marcelo Henrique
+[![Marcelo Henrique](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-michael-77b236282/)
+
+📧 Email: mhpb@cesar.school
+___
+### Raul Vila Nova
+[![Raul Vila Nova](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-michael-77b236282/)
+📧 Email: rvnc@cesar.school
+
+
