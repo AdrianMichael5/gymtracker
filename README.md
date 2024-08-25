@@ -2,7 +2,8 @@
 <p align="center">
   <img width="460" height="300" <img alt="image.png" src="https://github.com/AdrianMichael5/agroschool/blob/main/scr/image.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 </p>
-AgroSchool é uma plataforma de cursos online focada em agricultura, desenvolvida com Django e PostgreSQL. O objetivo é fornecer conhecimento e capacitação para agricultores, especialmente aqueles envolvidos em agricultura familiar, ajudando-os a melhorar suas práticas agrícolas e aumentar a produtividade de forma sustentável.
+
+> AgroSchool é uma plataforma de cursos online focada em agricultura, desenvolvida com Django e PostgreSQL. O objetivo é fornecer conhecimento e capacitação para agricultores, especialmente aqueles envolvidos em agricultura familiar, ajudando-os a melhorar suas práticas agrícolas e aumentar a produtividade de forma sustentável.
 
 ## :clipboard: Índice
 - :earth_africa: Visão Geral
@@ -80,6 +81,20 @@ python manage.py runserver
 - Acesso ao Painel: Navegue até http://localhost:8000 para acessar a plataforma.
 - Administração: Acesse http://localhost:8000/admin para gerenciar cursos e usuários.
 
+## 🤝 Colaboradores
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto Adrian Contribuidor"/><br>
+        <sub>
+          <b>Adrian Michael</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+    </table>
+    
 ## 📞 Contato
 ### Seu Nome - seu-email@exemplo.com
 ### LinkedIn: SeuPerfil
