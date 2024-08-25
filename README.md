@@ -1,4 +1,7 @@
 # AgroSchool
+<p align="center">
+  <img width="460" height="300" <img alt="image.png" src="https://github.com/AdrianMichael5/agroschool/blob/main/scr/image.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+</p>
 AgroSchool é uma plataforma de cursos online focada em agricultura, desenvolvida com Django e PostgreSQL. O objetivo é fornecer conhecimento e capacitação para agricultores, especialmente aqueles envolvidos em agricultura familiar, ajudando-os a melhorar suas práticas agrícolas e aumentar a produtividade de forma sustentável.
 
 - Índice
