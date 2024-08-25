@@ -48,7 +48,8 @@ bash
 Copiar código
 python3 -m venv venv
 source venv/bin/activate  # Linux/MacOS
-# ou
+
+## ou
 venv\Scripts\activate  # Windows
 Instale as dependências
 
@@ -74,8 +75,8 @@ Acesso ao Painel: Navegue até http://localhost:8000 para acessar a plataforma.
 Administração: Acesse http://localhost:8000/admin para gerenciar cursos e usuários.
 Contribuindo
 
-Contato
-Seu Nome - seu-email@exemplo.com
+## Contato
+### Seu Nome - seu-email@exemplo.com
 
-LinkedIn: SeuPerfil
-GitHub: seu-usuario
+## LinkedIn: SeuPerfil
+### GitHub: seu-usuario
