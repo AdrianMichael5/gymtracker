@@ -125,6 +125,7 @@ ___
 ___
 ### Raul Vila Nova
 [![Raul Vila Nova](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-michael-77b236282/)
+
 📧 Email: rvnc@cesar.school
 
 
