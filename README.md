@@ -36,16 +36,18 @@ Git
 Docker (opcional para ambiente de desenvolvimento)
 
 ## Instalação
-Clone o repositório
 
-bash
-Copiar código
+1. Clone o repositório
+
+```bash
 git clone https://github.com/seu-usuario/agroschool.git
 cd agroschool
-Crie e ative um ambiente virtual
+```
+
+2. Crie e ative um ambiente virtual
 
 bash
-Copiar código
+
 python3 -m venv venv
 source venv/bin/activate  # Linux/MacOS
 
