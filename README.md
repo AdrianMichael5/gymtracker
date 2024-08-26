@@ -124,7 +124,7 @@ python manage.py runserver
 ### 👨‍💻 Adrian Michael
 [![Adrian Michael](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-michael-77b236282/)
 
-### 📧 Email: adrian_michael_araujo@hotmail.com
+### 📧 Email: ama3@cesar.school
 ___
 ### 👨‍💻 Marcelo Henrique
 ![Marcelo Henrique](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
