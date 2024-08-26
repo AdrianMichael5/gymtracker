@@ -127,17 +127,17 @@ python manage.py runserver
 ### 📧 Email: adrian_michael_araujo@hotmail.com
 ___
 ### 👨‍💻 Marcelo Henrique
-[![Marcelo Henrique](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+![Marcelo Henrique](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### 📧 Email: mhpb@cesar.school
 ___
 ### 👨‍💻 Raul Vila Nova
-[![Raul Vila Nova](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+![Raul Vila Nova](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### 📧 Email: rvnc@cesar.school
 ___
 ### 👨‍💻 Gabriel Arhur
-[![Gabriel Arthur](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+![Gabriel Arthur](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### 📧 Email: agts@cesar.school
 
