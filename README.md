@@ -108,6 +108,14 @@ python manage.py runserver
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65dbMui6whWaxsVpnyP_A1zY2IXODEzLVoA&s" width="100px;" alt="Foto do Gabriel Arthur"/><br>
+        <sub>
+          <b>Gabriel Arthur</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -127,5 +135,10 @@ ___
 [![Raul Vila Nova](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-michael-77b236282/)
 
 ### 📧 Email: rvnc@cesar.school
+___
+### 👨‍💻 Gabriel Arhur
+[![Gabriel Arthur](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-michael-77b236282/)
+
+### 📧 Email: agts@cesar.school
 
 
