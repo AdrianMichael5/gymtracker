@@ -86,7 +86,7 @@ python manage.py runserver
   <tr>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65dbMui6whWaxsVpnyP_A1zY2IXODEzLVoA&s" width="100px;" alt="Foto do Adrian Michael no GitHub"/><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65dbMui6whWaxsVpnyP_A1zY2IXODEzLVoA&s" width="100px;" alt="Foto do Adrian Michael"/><br>
         <sub>
           <b>Adrian Michael</b>
         </sub>
@@ -110,9 +110,9 @@ python manage.py runserver
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65dbMui6whWaxsVpnyP_A1zY2IXODEzLVoA&s" width="100px;" alt="Foto do Gabriel Arthur"/><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65dbMui6whWaxsVpnyP_A1zY2IXODEzLVoA&s" width="100px;" alt="Foto do Arthur Gabriel"/><br>
         <sub>
-          <b>Gabriel Arthur</b>
+          <b>Arthur Gabriel</b>
         </sub>
       </a>
     </td>
@@ -136,8 +136,8 @@ ___
 
 ### 📧 Email: rvnc@cesar.school
 ___
-### 👨‍💻 Gabriel Arhur
-![Gabriel Arthur](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+### 👨‍💻 Arthur Gabriel
+![Arthur Gabriel](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### 📧 Email: agts@cesar.school
 
