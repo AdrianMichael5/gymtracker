@@ -1,4 +1,5 @@
-# 🌱 AgroSchool
+<h1 align="center">🌱 AgroSchool</h1>
+
 <p align="center">
   <img width="460" height="300" <img alt="image.png" src="https://github.com/AdrianMichael5/agroschool/blob/main/scr/image.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 </p>
