@@ -1,7 +1,4 @@
-<p align="center">
-  <b># :seedling: AgroSchool</b>
-</p>
-
+# :seedling: AgroSchool
 <p align="center">
   <img width="460" height="300" <img alt="image.png" src="https://github.com/AdrianMichael5/agroschool/blob/main/scr/image.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 </p>
