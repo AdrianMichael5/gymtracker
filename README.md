@@ -141,5 +141,15 @@ ___
 ![Arthur Gabriel](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### 📧 Email: agts@cesar.school
+___
+### 👨‍💻 Miguel Arcanjo
+![Miguel Arcanjo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+### 📧 Email: maha@cesar.school
+___
+### 👨‍💻 Pedro Barreto
+![Pedro Barreto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+### 📧 Email: pmab@cesar.school
 
 
