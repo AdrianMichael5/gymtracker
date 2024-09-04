@@ -36,6 +36,9 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 
 # Entrega 01
 ## [Screencast Protótipo Lo-Fi]()
+<p align="center">
+  <img width="1980" height="540" <img alt="image.png" src="https://github.com/AdrianMichael5/gymtracker/blob/main/src/GymTracker.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+</p>
 
 ## 💻 Tecnologias Utilizadas
 - **Backend:** Django (Python) 🐍
