@@ -1,7 +1,7 @@
 <h1 align="center"> 🦾GymTracker </h1>
 
 <p align="center">
-  <img width="440" height="380" <img alt="image.png" src="https://github.com/AdrianMichael5/gymtracker/blob/main/src/Gymtracker.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+  <img width="440" height="360" <img alt="image.png" src="https://github.com/AdrianMichael5/gymtracker/blob/main/src/Gymtracker.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 </p>
 
 > O Gymtracker é uma aplicação web desenvolvida com Django e PostgreSQL que permite a criação de treinos personalizados com base em suas informações pessoais, idade, nível de condicionamento físico e metas específicas. Com uma vasta biblioteca de exercícios e planos de treino adaptados, você terá todas as ferramentas necessárias para alcançar seus objetivos de forma eficiente.
@@ -36,9 +36,9 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 
 # Entrega 01
 ## [Screencast Protótipo Lo-Fi]()
-<p align="center">
-  <img width="1980" height="540" <img alt="image.png" src="https://github.com/AdrianMichael5/gymtracker/blob/main/src/GymTracker.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
-</p>
+
+[![Clique para assistir o vídeo](https://github.com/AdrianMichael5/gymtracker/blob/main/src/GymTracker.png)](https://www.youtube.com/watch?v=aNw4lxtW_YY&list=PLLT61SHdeQXuxTYMoLSTrT0kRCChHpc0W&index=5)
+
 
 ## 💻 Tecnologias Utilizadas
 - **Backend:** Django (Python) 🐍
