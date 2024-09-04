@@ -37,7 +37,10 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 # Entrega 01
 ## [Screencast Protótipo Lo-Fi]()
 
-[![Clique para assistir o vídeo](https://github.com/AdrianMichael5/gymtracker/blob/main/src/GymTracker.png)](https://www.youtube.com/watch?v=aNw4lxtW_YY&list=PLLT61SHdeQXuxTYMoLSTrT0kRCChHpc0W&index=5)
+<a href="https://www.youtube.com/watch?v=aNw4lxtW_YY&list=PLLT61SHdeQXuxTYMoLSTrT0kRCChHpc0W&index=5" target="_blank">
+    <img src="https://github.com/AdrianMichael5/gymtracker/blob/main/src/GymTracker.png" alt="Clique para assistir o vídeo">
+</a>
+
 
 
 ## 💻 Tecnologias Utilizadas
