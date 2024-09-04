@@ -19,13 +19,13 @@
 O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a forma como as pessoas abordam seus treinos e condicionamento físico. A proposta é oferecer uma experiência de treino personalizada e adaptada às necessidades individuais de cada usuário, utilizando tecnologia moderna para promover saúde e bem-estar.
 
 ## 🛠️ Funcionalidades
-- **Cadastro de Usuário:** Crie e gerencie seu perfil, informando detalhes como idade, peso, altura e metas.
-- **Seleção de Grupos Musculares:** Escolha quais músculos deseja focar em seus treinos.;
-- **Sugestão de Treinos:** Receba sugestões de treinos adequados ao seu perfil e objetivos.
-- **Treinos Específicos para** Idades: Treinos adaptados para diferentes faixas etárias.
-- **Biblioteca de Exercícios:** Acesso a um catálogo com descrições e vídeos de exercícios.
-- **Monitoramento de Progresso:** Acompanhe seu progresso com gráficos e relatórios.
-- **Planos de Treino Personalizados:** Crie ou siga planos de treino ajustados à sua evolução.
+**Cadastro de Usuário:** Crie e gerencie seu perfil, informando detalhes como idade, peso, altura e metas.  
+**Seleção de Grupos Musculares:** Escolha quais músculos deseja focar em seus treinos.  
+**Sugestão de Treinos:** Receba sugestões de treinos adequados ao seu perfil e objetivos.  
+**Treinos Específicos para** Idades: Treinos adaptados para diferentes faixas etárias.  
+**Biblioteca de Exercícios:** Acesso a um catálogo com descrições e vídeos de exercícios.  
+**Monitoramento de Progresso:** Acompanhe seu progresso com gráficos e relatórios.  
+**Planos de Treino Personalizados:** Crie ou siga planos de treino ajustados à sua evolução.  
 
 ## 💻 Tecnologias Utilizadas
 - **Backend:** Django (Python) 🐍
@@ -33,9 +33,9 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 - Frontend: HTML, CSS, JavaScript 🌐
 
 ## ⚙️ Pré-requisitos
-Python 3.8+
-PostgreSQL
-Git
+Python 3.8+  
+PostgreSQL  
+Git  
 Docker (opcional para ambiente de desenvolvimento)
 
 ## 🛠️ Instalação
@@ -112,6 +112,22 @@ python manage.py runserver
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65dbMui6whWaxsVpnyP_A1zY2IXODEzLVoA&s" width="100px;" alt="Foto do Arthur Gabriel"/><br>
         <sub>
           <b>Arthur Gabriel</b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65dbMui6whWaxsVpnyP_A1zY2IXODEzLVoA&s" width="100px;" alt="Foto do Miguel Arcanjo"/><br>
+        <sub>
+          <b>Miguel Arcanjo</b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65dbMui6whWaxsVpnyP_A1zY2IXODEzLVoA&s" width="100px;" alt="Foto do Pedro Barreto"/><br>
+        <sub>
+          <b>Pedro Barreto</b>
         </sub>
       </a>
     </td>
