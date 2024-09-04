@@ -1,4 +1,4 @@
-<h1 align="center"> 🦾Gymtracker </h1>
+<h1 align="center"> 🦾GymTracker </h1>
 
 <p align="center">
   <img width="440" height="380" <img alt="image.png" src="https://github.com/AdrianMichael5/gymtracker/blob/main/src/Gymtracker.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
