@@ -1,10 +1,10 @@
 <h1 align="center"> 🦾Gymtracker </h1>
 
 <p align="center">
-  <img width="460" height="300" <img alt="image.png" src="https://github.com/AdrianMichael5/agroschool/blob/main/scr/image.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+  <img width="440" height="380" <img alt="image.png" src="https://github.com/AdrianMichael5/gymtracker/blob/main/src/Gymtracker.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 </p>
 
-> AgroSchool é uma plataforma de cursos online focada em agricultura, desenvolvida com Django e PostgreSQL. O objetivo é fornecer conhecimento e capacitação para agricultores, especialmente aqueles envolvidos em agricultura familiar, ajudando-os a melhorar suas práticas agrícolas e aumentar a produtividade de forma sustentável.
+> O Gymtracker é uma aplicação web desenvolvida com Django e PostgreSQL que permite a criação de treinos personalizados com base em suas informações pessoais, idade, nível de condicionamento físico e metas específicas. Com uma vasta biblioteca de exercícios e planos de treino adaptados, você terá todas as ferramentas necessárias para alcançar seus objetivos de forma eficiente.
 
 ## :clipboard: Índice
 - :earth_africa: Visão Geral
@@ -13,26 +13,24 @@
 - :gear: Pré-requisitos
 - :hammer_and_wrench: Instalação
 - :rocket: Como Usar
-- :scroll: Licença
 - :phone: Contato
 
 ## 🌍 Visão Geral
-O AgroSchool oferece cursos online que abrangem diversos temas relacionados à agricultura, incluindo técnicas de plantio, manejo de pragas, uso eficiente da água, e práticas sustentáveis. A plataforma permite que os usuários acessem materiais de aprendizado em vídeo, texto, e participem de fóruns de discussão.
+O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a forma como as pessoas abordam seus treinos e condicionamento físico. A proposta é oferecer uma experiência de treino personalizada e adaptada às necessidades individuais de cada usuário, utilizando tecnologia moderna para promover saúde e bem-estar.
 
 ## 🛠️ Funcionalidades
-Catálogo de Cursos: Uma ampla variedade de cursos sobre agricultura.
-Módulos de Aprendizado: Divisão de cursos em módulos com videoaulas, textos e quizzes.
-Sistema de Avaliação: Testes ao final de cada módulo para avaliar o aprendizado.
-Certificação: Emissão de certificados para cursos concluídos com sucesso.
-Fórum de Discussão: Espaço para interação entre os usuários e instrutores.
-Painel do Usuário: Gerenciamento de cursos, progresso e certificados.
+- **Cadastro de Usuário:** Crie e gerencie seu perfil, informando detalhes como idade, peso, altura e metas.
+- **Seleção de Grupos Musculares:** Escolha quais músculos deseja focar em seus treinos.;
+- **Sugestão de Treinos:** Receba sugestões de treinos adequados ao seu perfil e objetivos.
+- **Treinos Específicos para** Idades: Treinos adaptados para diferentes faixas etárias.
+- **Biblioteca de Exercícios:** Acesso a um catálogo com descrições e vídeos de exercícios.
+- **Monitoramento de Progresso:** Acompanhe seu progresso com gráficos e relatórios.
+- **Planos de Treino Personalizados:** Crie ou siga planos de treino ajustados à sua evolução.
 
 ## 💻 Tecnologias Utilizadas
-- Backend: Django (Python) 🐍
-- Banco de Dados: PostgreSQL 🐘
+- **Backend:** Django (Python) 🐍
+- **Banco de Dados:** PostgreSQL 🐘
 - Frontend: HTML, CSS, JavaScript 🌐
-- Autenticação: Django Allauth 🔐
-- Deploy: Docker, Heroku 🐳
 
 ## ⚙️ Pré-requisitos
 Python 3.8+
@@ -45,8 +43,8 @@ Docker (opcional para ambiente de desenvolvimento)
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/agroschool.git
-cd agroschool
+git clone https://github.com/seu-usuario/gymtracker.git
+cd gymtracker
 ```
 
 ### 2. Crie e ative um ambiente virtual
