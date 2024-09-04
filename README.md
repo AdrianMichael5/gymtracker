@@ -27,7 +27,7 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 **Monitoramento de Progresso:** Acompanhe seu progresso com gráficos e relatórios.  
 **Planos de Treino Personalizados:** Crie ou siga planos de treino ajustados à sua evolução.  
 
-## Links
+## 🧷 Links
 #### [Figma - GymTracker](https://www.figma.com/design/ktzZ8wUvE2x2i93Ued7Yon/GymTracker-Prototipa%C3%A7%C3%A3o?node-id=0-1&node-type=CANVAS&t=PNX0I5oILUylDFD8-0)
 
 #### [Quadro do Jira]()
