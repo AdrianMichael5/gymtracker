@@ -1,5 +1,17 @@
 <h1 align="center"> 🦾GymTracker </h1>
 
+## Bem vindo(a) ao Gymtracker  
+Este repositório contém o código-fonte de uma aplicação inovadora, criada para ajudar pessoas de todas as idades e níveis de experiência na academia a aprenderem, organizarem e otimizarem seus treinos. Nossa missão é proporcionar uma experiência personalizada e acessível para todos que desejam melhorar sua saúde e condicionamento físico.
+
+## Sobre o Projeto  
+### Esta aplicação foi projetada para oferecer suporte a:  
+  
+**Iniciantes:** Orientações claras e simples para quem está começando, com treinos fáceis de seguir e dicas essenciais para evitar lesões.
+
+**Intermediários:** Programas de treino adaptáveis, que ajudam a manter a motivação e progredir de forma constante.  
+
+**Avançados:** Planos de treino personalizados que desafiam e ajudam a alcançar metas específicas, seja para ganho de massa muscular, perda de peso, ou melhora na performance esportiva.  
+
 ## :clipboard: Índice
 - :earth_africa: Visão Geral
 - :hammer_and_wrench: Funcionalidades
