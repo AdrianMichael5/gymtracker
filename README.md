@@ -15,6 +15,8 @@ Este repositório contém o código-fonte de uma aplicação inovadora, criada p
 ## :clipboard: Índice
 - :earth_africa: Visão Geral
 - :hammer_and_wrench: Funcionalidades
+- 🧷 Links
+- 🚚 Entrega 01
 - :computer: Tecnologias Utilizadas
 - :gear: Pré-requisitos
 - :hammer_and_wrench: Instalação
