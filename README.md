@@ -38,7 +38,7 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 ## 🧷 Links
 #### [Figma - GymTracker](https://www.figma.com/design/ktzZ8wUvE2x2i93Ued7Yon/GymTracker-Prototipa%C3%A7%C3%A3o?node-id=0-1&node-type=CANVAS&t=PNX0I5oILUylDFD8-0)
 
-#### [Quadro do Jira]()
+#### [Quadro do Jira](https://raulvnc.atlassian.net/jira/software/projects/GT/boards/1)
 
 #### [Site do Projeto](URL)
 
