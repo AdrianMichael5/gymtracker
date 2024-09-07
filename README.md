@@ -40,10 +40,10 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 
 #### [Quadro do Jira](https://raulvnc.atlassian.net/jira/software/projects/GT/boards/1)
 
-#### [Site do Projeto](URL)
+#### ~~[Site do Projeto](URL)~~
 
 # Entrega 01
-## [Screencast Protótipo Lo-Fi](https://www.youtube.com/watch?v=aNw4lxtW_YY&list=PLLT61SHdeQXuxTYMoLSTrT0kRCChHpc0W&index=5)
+## ~~[Screencast Protótipo Lo-Fi](https://www.youtube.com/watch?v=aNw4lxtW_YY&list=PLLT61SHdeQXuxTYMoLSTrT0kRCChHpc0W&index=5)~~
 
 [![Clique para assistir o vídeo (abrirá em uma nova aba)](https://github.com/AdrianMichael5/gymtracker/blob/main/src/screencast.png)](https://www.youtube.com/watch?v=aNw4lxtW_YY&list=PLLT61SHdeQXuxTYMoLSTrT0kRCChHpc0W&index=5)
 
