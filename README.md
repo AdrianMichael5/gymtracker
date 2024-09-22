@@ -1,6 +1,6 @@
 <h1 align="center"> 🦾GymTracker </h1>
 
-## Bem vindo(a) ao Gymtracker  
+## Bem vindo(a) ao GymTracker  
 Este repositório contém o código-fonte de uma aplicação inovadora, criada para ajudar pessoas de todas as idades e níveis de experiência na academia a aprenderem, organizarem e otimizarem seus treinos. Nossa missão é proporcionar uma experiência personalizada e acessível para todos que desejam melhorar sua saúde e condicionamento físico.
 
 ## Sobre o Projeto  
