@@ -174,7 +174,7 @@ ___
 ### 📧 Email: mhpb@cesar.school
 ___
 ### 👨‍💻 Raul Vila Nova
-![Raul Vila Nova](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Raul Vila Nova](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-vila-nova-costa-9a24332b6/)
 
 ### 📧 Email: rvnc@cesar.school
 ___
