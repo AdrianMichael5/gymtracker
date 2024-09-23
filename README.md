@@ -70,7 +70,7 @@ Docker (opcional para ambiente de desenvolvimento)
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/gymtracker.git
+git clone https://github.com/AdrianMichael5/gymtracker.git
 cd gymtracker
 ```
 
