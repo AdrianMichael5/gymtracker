@@ -36,12 +36,15 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 **Planos de Treino Personalizados:** Crie ou siga planos de treino ajustados à sua evolução.  
 
 ## 🧷 Links
-#### [Figma - GymTracker](https://www.figma.com/design/ktzZ8wUvE2x2i93Ued7Yon/GymTracker-Prototipa%C3%A7%C3%A3o?node-id=0-1&node-type=CANVAS&t=PNX0I5oILUylDFD8-0)
-
-#### [Quadro do Jira](https://raulvnc.atlassian.net/jira/software/projects/GT/boards/1)
-
-#### [Site do Projeto](https://github.com/AdrianMichael5/gymtracker)
-
+<a href="https://www.figma.com/design/ktzZ8wUvE2x2i93Ued7Yon/GymTracker-Prototipa%C3%A7%C3%A3o?node-id=0-1&node-type=CANVAS&t=PNX0I5oILUylDFD8-0">
+    <img src="https://img.shields.io/badge/figma-2E8B57?style=for-the-badge&logo=figma&logoColor=white" height="30px"/></a>
+    
+<a href="https://raulvnc.atlassian.net/jira/software/projects/GT/boards/1">
+    <img src="https://img.shields.io/badge/Jira-2E8B57?style=for-the-badge&logo=jira&logoColor=white" height="30px"/></a>
+    
+<a href="https://github.com/AdrianMichael5/gymtracker">
+    <img src="https://img.shields.io/badge/github-2E8B57?style=for-the-badge&logo=github&logoColor=white" height="30px"/></a>
+    
 # Entrega 01
 ## [Screencast Protótipo Lo-Fi](https://www.youtube.com/watch?v=aNw4lxtW_YY&list=PLLT61SHdeQXuxTYMoLSTrT0kRCChHpc0W&index=5)
 
