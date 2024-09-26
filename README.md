@@ -164,37 +164,5 @@ python manage.py runserver
   </tr>
 </table>
 
-
-## 📞 Contato
-### 👨‍💻 Adrian Michael
-[![Adrian Michael](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-michael-77b236282/)
-
-### 📧 Email: ama3@cesar.school
-___
-### 👨‍💻 Marcelo Henrique
-![Marcelo Henrique](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-### 📧 Email: mhpb@cesar.school
-___
-### 👨‍💻 Raul Vila Nova
-[![Raul Vila Nova](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-vila-nova-costa-9a24332b6/)
-
-### 📧 Email: rvnc@cesar.school
-___
-### 👨‍💻 Arthur Gabriel
-![Arthur Gabriel](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-### 📧 Email: agts@cesar.school
-___
-### 👨‍💻 Miguel Arcanjo
-[![Miguel Arcanjo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-arcanjo-205455316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-### 📧 Email: maha@cesar.school
-___
-### 👨‍💻 Pedro Barreto
-[![Pedro Barreto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-barreto-6417262ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-### 📧 Email: pmab@cesar.school
-
 ![Alt](https://repobeats.axiom.co/api/embed/7d9b9b486efd3bad6dc818c201a1c0354e7284d9.svg "Repobeats analytics image")
 
