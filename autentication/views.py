@@ -1,13 +1,12 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
+from django.contrib import messages
+from django.contrib.auth.models import User
 
 def Home(request):
     return render(request,"index.html")
 
 def signup(request):
     return render(request,"signup.html")
-
-def handlelogin(request):
-    return render(request,"handlelogin.html")
 
 def signup(request):
     if request.method=="POST":
@@ -50,3 +49,6 @@ def signup(request):
         
         
     return render(request,"signup.html")
+
+def handlelogin(request):
+    return render(request,"handlelogin.html")
