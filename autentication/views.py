@@ -1,6 +1,7 @@
 from django.shortcuts import render, redirect
 from django.contrib import messages
 from django.contrib.auth.models import User
+from django.contrib.auth import authenticate,login,logout
 
 def Home(request):
     return render(request,"index.html")
@@ -50,5 +51,26 @@ def signup(request):
         
     return render(request,"signup.html")
 
+
+
 def handlelogin(request):
+    if request.method=="POST":        
+        username=request.POST.get('usernumber')
+        pass1=request.POST.get('pass1')
+        myuser=authenticate(username=username,password=pass1)
+        if myuser is not None:
+            login(request,myuser)
+            messages.success(request,"Login Successful")
+            return redirect('/')
+        else:
+            messages.error(request,"Invalid Credentials")
+            return redirect('/login')
+            
+        
     return render(request,"handlelogin.html")
+
+
+def handleLogout(request):
+    logout(request)
+    messages.sucess(request,"Logout Success")
+    return redirect('/login')
