@@ -36,7 +36,7 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 **Planos de Treino Personalizados:** Crie ou siga planos de treino ajustados à sua evolução.  
 
 ## 🧷 Links
-<a href="https://www.figma.com/design/ktzZ8wUvE2x2i93Ued7Yon/GymTracker-Prototipa%C3%A7%C3%A3o?node-id=0-1&node-type=CANVAS&t=PNX0I5oILUylDFD8-0">
+<a href="https://www.figma.com/design/ktzZ8wUvE2x2i93Ued7Yon/GymTracker-Prototipa%C3%A7%C3%A3o-Lo-fi?node-id=0-1&t=6QbpqgcsmcV8Rvh8-1">
     <img src="https://img.shields.io/badge/figma-b86e14?style=for-the-badge&logo=figma&logoColor=white" height="30px"/></a>
     
 <a href="https://raulvnc.atlassian.net/jira/software/projects/GT/boards/1">
