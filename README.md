@@ -1,7 +1,7 @@
 <h1 align="center"> 🦾GymTracker </h1>
 
 ## Bem vindo(a) ao GymTracker  
-Este repositório contém o código-fonte de uma aplicação inovadora, criada para ajudar pessoas de todas as idades e níveis de experiência na academia a aprenderem, organizarem e otimizarem seus treinos. Nossa missão é proporcionar uma experiência personalizada e acessível para todos que desejam melhorar sua saúde e condicionamento físico.
+Uma aplicação web desenvolvida em Django, projetada para ajudar usuários a gerenciar suas rotinas de exercícios e monitorar seu progresso físico de maneira eficaz. O aplicativo oferece uma interface intuitiva onde os usuários podem se cadastrar, registrar seus treinos, selecionar exercícios específicos para diferentes grupos musculares e planejar suas atividades semanais.
 
 ## Sobre o Projeto  
 ### Esta aplicação foi projetada para oferecer suporte a:  
@@ -27,13 +27,14 @@ Este repositório contém o código-fonte de uma aplicação inovadora, criada p
 O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a forma como as pessoas abordam seus treinos e condicionamento físico. A proposta é oferecer uma experiência de treino personalizada e adaptada às necessidades individuais de cada usuário, utilizando tecnologia moderna para promover saúde e bem-estar.
 
 ## 🛠️ Funcionalidades
-**Cadastro de Usuário:** Crie e gerencie seu perfil, informando detalhes como idade, peso, altura e metas.  
+**Cadastro de Usuário:** Crie e gerencie seu perfil.  
 **Seleção de Grupos Musculares:** Escolha quais músculos deseja focar em seus treinos.  
+**Gestão de Treinos:** Cadastro e edição de treinos, permitindo acompanhamento detalhado do desempenho.  
 **Sugestão de Treinos:** Receba sugestões de treinos adequados ao seu perfil e objetivos.  
-**Treinos Específicos para** Idades: Treinos adaptados para diferentes faixas etárias.  
-**Biblioteca de Exercícios:** Acesso a um catálogo com descrições e vídeos de exercícios.  
+**Dicas de Saúde:** Conteúdo educativo sobre nutrição e saúde para complementar o treinamento.  
+**Biblioteca de Exercícios:** Acesso a um catálogo com descrições e vídeos de exercícios.   
 **Monitoramento de Progresso:** Acompanhe seu progresso com gráficos e relatórios.  
-**Planos de Treino Personalizados:** Crie ou siga planos de treino ajustados à sua evolução.  
+**Escolha o treinador ideal para seu treino:** Escolha um dos treinadores parceiros da academia. 
 
 ## 🧷 Links
 <a href="https://www.figma.com/design/ktzZ8wUvE2x2i93Ued7Yon/GymTracker-Prototipa%C3%A7%C3%A3o-Lo-fi?node-id=0-1&t=6QbpqgcsmcV8Rvh8-1">
