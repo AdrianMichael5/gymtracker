@@ -9,7 +9,7 @@ def Home(request):
 
 def attendance(request):
     if not request.user.is_authenticated:
-        messages.warning(request,"Please Login and Try Again")
+        messages.warning(request,"Faça login e tente novamente")
         return redirect('/login')
     SelectTrainer=Trainer.objects.all()
     context={"SelectTrainer":SelectTrainer}
@@ -21,13 +21,13 @@ def attendance(request):
         TrainedBy=request.POST.get('trainer')
         query=Attendance(phonenumber=phonenumber,Login=Login,Logout=Logout,SelectWorkout=SelectWorkout,TrainedBy=TrainedBy)
         query.save()
-        messages.warning(request,"Attendace Applied Success")
+        messages.warning(request,"Agendamento marcado")
         return redirect('/attendance')
     return render(request,"attendance.html",context)
 
 def profile(request):
     if not request.user.is_authenticated:
-        messages.warning(request,"Please Login and Try Again")
+        messages.warning(request,"Faça login e tente novamente")
         return redirect('/login')
     user_phone=request.user
     posts=Enrollment.objects.filter(PhoneNumber=user_phone)
@@ -45,16 +45,16 @@ def signup(request):
         pass2=request.POST.get('pass2')
       
         if len(username)>10 or len(username)<10:
-            messages.info(request,"Phone Number Must be 10 Digits")
+            messages.info(request,"O número de telefone deve ter 10 dígitos")
             return redirect('/signup')
 
         if pass1!=pass2:
-            messages.info(request,"Password is not Matching")
+            messages.info(request,"A senha está incorreta")
             return redirect('/signup')
        
         try:
             if User.objects.get(username=username):
-                messages.warning(request,"Phone Number is Taken")
+                messages.warning(request,"O número de telefone já foi usado")
                 return redirect('/signup')
            
         except Exception as identifier:
@@ -63,7 +63,7 @@ def signup(request):
         
         try:
             if User.objects.get(email=email):
-                messages.warning(request,"Email is Taken")
+                messages.warning(request,"Email já foi usado")
                 return redirect('/signup')
            
         except Exception as identifier:
@@ -73,7 +73,7 @@ def signup(request):
         
         myuser=User.objects.create_user(username,email,pass1)
         myuser.save()
-        messages.success(request,"User is Created Please Login")
+        messages.success(request,"O usuário foi criado, faça o login")
         return redirect('/login')
         
         
@@ -89,10 +89,10 @@ def handlelogin(request):
         myuser=authenticate(username=username,password=pass1)
         if myuser is not None:
             login(request,myuser)
-            messages.success(request,"Login Successful")
+            messages.success(request,"Login bem-sucedido")
             return redirect('/')
         else:
-            messages.error(request,"Invalid Credentials")
+            messages.error(request,"Credenciais inválidas")
             return redirect('/login')
             
         
@@ -101,7 +101,7 @@ def handlelogin(request):
 
 def handleLogout(request):
     logout(request)
-    messages.success(request,"Logout Success")    
+    messages.success(request,"Saiu com sucesso")    
     return redirect('/login')
 
 def contact(request):
@@ -112,7 +112,7 @@ def contact(request):
         desc=request.POST.get('desc')
         myquery=Contact(name=name,email=email,phonenumber=number,description=desc)
         myquery.save()       
-        messages.info(request,"Thanks for Contacting us we will get back you soon")
+        messages.info(request,"Obrigado por entrar em contato conosco retornaremos em breve")
         return redirect('/contact')
         
     return render(request,"contact.html")
@@ -120,7 +120,7 @@ def contact(request):
 
 def enroll(request):
     if not request.user.is_authenticated:
-        messages.warning(request,"Please Login and Try Again")
+        messages.warning(request,"Faça login e tente novamente")
         return redirect('/login')
 
     Membership=MembershipPlan.objects.all()
@@ -138,7 +138,7 @@ def enroll(request):
         address=request.POST.get('address')
         query=Enrollment(FullName=FullName,Email=email,Gender=gender,PhoneNumber=PhoneNumber,DOB=DOB,SelectMembershipplan=member,SelectTrainer=trainer,Reference=reference,Address=address)
         query.save()
-        messages.success(request,"Thanks For Enrollment")
+        messages.success(request,"Obrigado pela inscrição")
         return redirect('/join')
 
 
