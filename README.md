@@ -58,9 +58,9 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 
 # 🚚 Entrega 02
 
-## [Screencast Primeiro Deploy](https://www.youtube.com/watch?v=aNw4lxtW_YY&list=PLLT61SHdeQXuxTYMoLSTrT0kRCChHpc0W&index=5)
+## [Screencast Primeiro Deploy](https://youtu.be/p6bjTbyv9cE)
 
-[![Clique para assistir o vídeo (abrirá em uma nova aba)](https://github.com/AdrianMichael5/gymtracker/blob/main/docs/screencast.png)](https://youtu.be/edpW3PThu6E)
+[![Clique para assistir o vídeo (abrirá em uma nova aba)](https://github.com/AdrianMichael5/gymtracker/blob/main/docs/screencast.png)](https://youtu.be/p6bjTbyv9cE)
 
 ## [Quadro&BackLog (JIRA)](https://raulvnc.atlassian.net/jira/software/projects/GT/boards/1)
 [![Clique para ver o quadro do jira (abrirá em uma nova aba)](https://github.com/user-attachments/assets/2b223cf0-0606-48c2-bf20-f07f6a72d790)](https://raulvnc.atlassian.net/jira/software/projects/GT/boards/1)
