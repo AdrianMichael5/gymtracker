@@ -43,7 +43,7 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 <a href="https://raulvnc.atlassian.net/jira/software/projects/GT/boards/1">
     <img src="https://img.shields.io/badge/Jira-b86e14?style=for-the-badge&logo=jira&logoColor=white" height="30px"/></a>
     
-<a href="">
+<a href="https://gymtracker-a8cdbge3d6cccqed.brazilsouth-01.azurewebsites.net/">
     <img src="https://img.shields.io/badge/SITE DO PROJETO-b86e14?style=for-the-badge&logo=google&logoColor=white" height="30px"/></a>
   
 # 🚚 Entrega 01
