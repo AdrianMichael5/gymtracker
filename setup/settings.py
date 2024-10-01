@@ -63,7 +63,7 @@ else:
 # Application definition
 
 INSTALLED_APPS = [
-    'autentication',
+    'autentication.apps.AutenticationConfig',
     "whitenoise.runserver_nostatic",
     'django.contrib.admin',
     'django.contrib.auth',
