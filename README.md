@@ -1,30 +1,19 @@
 <h1 align="center"> 🦾GymTracker </h1>
 
-## Bem vindo(a) ao GymTracker  
-Uma aplicação web desenvolvida em Django, projetada para ajudar usuários a gerenciar suas rotinas de exercícios e monitorar seu progresso físico de maneira eficaz. O aplicativo oferece uma interface intuitiva onde os usuários podem se cadastrar, registrar seus treinos, selecionar exercícios específicos para diferentes grupos musculares e planejar suas atividades semanais.
-
-## Sobre o Projeto  
-### Esta aplicação foi projetada para oferecer suporte a:  
-  
-**Iniciantes:** Orientações claras e simples para quem está começando, com treinos fáceis de seguir e dicas essenciais para evitar lesões.
-
-**Intermediários:** Programas de treino adaptáveis, que ajudam a manter a motivação e progredir de forma constante.  
-
-**Avançados:** Planos de treino personalizados que desafiam e ajudam a alcançar metas específicas, seja para ganho de massa muscular, perda de peso, ou melhora na performance esportiva.  
+## 🌍 Visão Geral
+O **GymTracker** é uma aplicação web desenvolvida em Django, projetada para ajudar usuários a gerenciar suas rotinas de exercícios e monitorar seu progresso físico de maneira eficaz. O aplicativo oferece uma interface intuitiva onde os usuários podem se cadastrar, registrar seus treinos, selecionar exercícios específicos para diferentes grupos musculares e planejar suas atividades semanais.
 
 ## :clipboard: Índice
 - :earth_africa: Visão Geral
 - :hammer_and_wrench: Funcionalidades
 - 🧷 Links
 - 🚚 Entrega 01
+- 🚚 Entrega 02
 - :computer: Tecnologias Utilizadas
 - :gear: Pré-requisitos
 - :hammer_and_wrench: Instalação
 - :rocket: Como Usar
 - :phone: Contato
-
-## 🌍 Visão Geral
-O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a forma como as pessoas abordam seus treinos e condicionamento físico. A proposta é oferecer uma experiência de treino personalizada e adaptada às necessidades individuais de cada usuário, utilizando tecnologia moderna para promover saúde e bem-estar.
 
 ## 🛠️ Funcionalidades
 **Cadastro de Usuário:** Crie e gerencie seu perfil.  
@@ -43,11 +32,11 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 <a href="https://raulvnc.atlassian.net/jira/software/projects/GT/boards/1">
     <img src="https://img.shields.io/badge/Jira-b86e14?style=for-the-badge&logo=jira&logoColor=white" height="30px"/></a>
     
-<a href="">
+<a href="https://gymtracker-a8cdbge3d6cccqed.brazilsouth-01.azurewebsites.net/">
     <img src="https://img.shields.io/badge/SITE DO PROJETO-b86e14?style=for-the-badge&logo=google&logoColor=white" height="30px"/></a>
   
 # 🚚 Entrega 01
-## [Screencast Protótipo Lo-Fi](https://www.youtube.com/watch?v=aNw4lxtW_YY&list=PLLT61SHdeQXuxTYMoLSTrT0kRCChHpc0W&index=5)
+## [Screencast Protótipo Lo-Fi](https://www.youtube.com/watch?v=edpW3PThu6E)
 
 [![Clique para assistir o vídeo (abrirá em uma nova aba)](https://github.com/AdrianMichael5/gymtracker/blob/main/docs/screencast.png)](https://youtu.be/edpW3PThu6E)
 
@@ -57,6 +46,10 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 [![Clique para ver o backlog do jira (abrirá em uma nova aba)](https://github.com/AdrianMichael5/gymtracker/blob/main/docs/backlog-jira.png)](https://raulvnc.atlassian.net/jira/software/projects/GT/boards/1/backlog)
 
 # 🚚 Entrega 02
+
+## [Screencast Primeiro Deploy](https://youtu.be/p6bjTbyv9cE)
+
+[![Clique para assistir o vídeo (abrirá em uma nova aba)](https://github.com/AdrianMichael5/gymtracker/blob/main/docs/screencast.png)](https://youtu.be/p6bjTbyv9cE)
 
 ## [Quadro&BackLog (JIRA)](https://raulvnc.atlassian.net/jira/software/projects/GT/boards/1)
 [![Clique para ver o quadro do jira (abrirá em uma nova aba)](https://github.com/user-attachments/assets/2b223cf0-0606-48c2-bf20-f07f6a72d790)](https://raulvnc.atlassian.net/jira/software/projects/GT/boards/1)
@@ -71,7 +64,6 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 Python 3.8+  
 PostgreSQL  
 Git  
-Docker (opcional para ambiente de desenvolvimento)
 
 ## 🛠️ Instalação
 
@@ -168,6 +160,8 @@ python manage.py runserver
     </td>
   </tr>
 </table>
+
+___
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d9b9b486efd3bad6dc818c201a1c0354e7284d9.svg "Repobeats analytics image")
 
