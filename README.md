@@ -76,7 +76,6 @@ O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a
 Python 3.8+  
 PostgreSQL  
 Git  
-Docker (opcional para ambiente de desenvolvimento)
 
 ## 🛠️ Instalação
 
