@@ -1,7 +1,7 @@
 <h1 align="center"> 🦾GymTracker </h1>
 
-## Bem vindo(a) ao GymTracker  
-Uma aplicação web desenvolvida em Django, projetada para ajudar usuários a gerenciar suas rotinas de exercícios e monitorar seu progresso físico de maneira eficaz. O aplicativo oferece uma interface intuitiva onde os usuários podem se cadastrar, registrar seus treinos, selecionar exercícios específicos para diferentes grupos musculares e planejar suas atividades semanais.
+## 🌍 Visão Geral
+O **GymTracker** é uma aplicação web desenvolvida em Django, projetada para ajudar usuários a gerenciar suas rotinas de exercícios e monitorar seu progresso físico de maneira eficaz. O aplicativo oferece uma interface intuitiva onde os usuários podem se cadastrar, registrar seus treinos, selecionar exercícios específicos para diferentes grupos musculares e planejar suas atividades semanais.
 
 ## Sobre o Projeto  
 ### Esta aplicação foi projetada para oferecer suporte a:  
@@ -23,9 +23,6 @@ Uma aplicação web desenvolvida em Django, projetada para ajudar usuários a ge
 - :hammer_and_wrench: Instalação
 - :rocket: Como Usar
 - :phone: Contato
-
-## 🌍 Visão Geral
-O **Gymtracker** é uma plataforma web inovadora desenvolvida para transformar a forma como as pessoas abordam seus treinos e condicionamento físico. A proposta é oferecer uma experiência de treino personalizada e adaptada às necessidades individuais de cada usuário, utilizando tecnologia moderna para promover saúde e bem-estar.
 
 ## 🛠️ Funcionalidades
 **Cadastro de Usuário:** Crie e gerencie seu perfil.  
