@@ -161,5 +161,7 @@ python manage.py runserver
   </tr>
 </table>
 
+___
+
 ![Alt](https://repobeats.axiom.co/api/embed/7d9b9b486efd3bad6dc818c201a1c0354e7284d9.svg "Repobeats analytics image")
 
