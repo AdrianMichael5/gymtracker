@@ -17,6 +17,7 @@ Uma aplicação web desenvolvida em Django, projetada para ajudar usuários a ge
 - :hammer_and_wrench: Funcionalidades
 - 🧷 Links
 - 🚚 Entrega 01
+- 🚚 Entrega 02
 - :computer: Tecnologias Utilizadas
 - :gear: Pré-requisitos
 - :hammer_and_wrench: Instalação
