@@ -44,8 +44,8 @@ def signup(request):
         pass1=request.POST.get('pass1')
         pass2=request.POST.get('pass2')
       
-        if len(username)>10 or len(username)<10:
-            messages.info(request,"O número de telefone deve ter 10 dígitos")
+        if len(username)>11 or len(username)<11:
+            messages.info(request,"O número de telefone deve ter 11 dígitos")
             return redirect('/signup')
 
         if pass1!=pass2:
@@ -101,7 +101,7 @@ def handlelogin(request):
 
 def handleLogout(request):
     logout(request)
-    messages.success(request,"Saiu com sucesso")    
+    messages.success(request,"Faça login e tente novamente")
     return redirect('/login')
 
 def contact(request):
