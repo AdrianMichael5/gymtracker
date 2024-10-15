@@ -17,7 +17,7 @@ class Enrollment(models.Model):
     Email=models.EmailField()
     Gender=models.CharField(max_length=25)
     PhoneNumber=models.CharField(max_length=12)
-    DOB=models.CharField(max_length=50)
+    DOB = models.DateField()
     SelectMembershipplan=models.CharField(max_length=200)
     SelectTrainer=models.CharField(max_length=55)
     Reference=models.CharField(max_length=55)
